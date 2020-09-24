@@ -1,0 +1,30 @@
+{
+  "name": "multimedia-ecosistema",
+  "version": "1.0.0",
+  "description": "Contenedor de dependencias para generación de multimedias para producción.",
+  "bugs": {
+    "email": "lacri@misena.edu.co"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Luis Felipe Zapata <lacri@misena.edu.co>",
+  "license": "ISC",
+  "devDependencies": {
+    "clear": "^0.1.0",
+    "getmac": "^1.4.6",
+    "gulp": "^4.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-copy": "^4.0.1",
+    "gulp-each": "^0.5.0",
+    "gulp-file": "^0.4.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-json-minify": "^1.2.2",
+    "gulp-prompt": "^1.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp-zip": "^4.2.0"
+  }
+}
